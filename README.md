@@ -70,7 +70,7 @@ The dataset contains historical exchange rates between the Euro and the US Dolla
 
 How to Run This Project
 Clone the repository:
-git clone https://github.com/Pratiksha-B29/exchange-rate-visualization.git
+git clone https://github.com/Pratiksha-B29/Data_Visualization_on_Exchange_Rates.git
 
 Install required libraries:
 pip install -r requirements.txt
